@@ -13,12 +13,12 @@ pip install matplotlib numpy
 ## Projects
 
 ### 1. A* Pathfinding — `astar_robot.py`
-Implements the A* search algorithm for robot navigation on a grid with random obstacles using Manhattan Distance heuristic and priority queue exploration.
+Implements the A* search algorithm for robot navigation on a grid with random obstacles using the Manhattan Distance heuristic and priority queue exploration.
 
 ### 2. Boids Swarm Simulation — `boids_simulation.py`
 Simulates emergent flocking behaviour using Craig Reynolds' three rules: Separation, Alignment, and Cohesion. Real-time animated visualisation.
 
-### 3. PID Circular Path Tracking — `pid_circular_tracking.py`
+### 3. PID Circular Path Tracking — `pid_circular_tracking.py.`
 PID controller simulating a vehicle tracking a circular path. Compares underdamped, well-tuned, and overdamped controller configurations.
 
 ---
